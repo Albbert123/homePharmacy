@@ -1,0 +1,108 @@
+{
+  "farmacos": [
+    {
+      "nombre": "Anticongestiva cusí (pasta lassar) pasta cutanea",
+      "categoria": "Dermatología",
+      "descripcion": "Pasta tópica para irritaciones cutáneas, escoceduras y dermatitis, protege y calma la piel.",
+      "fecha_caducidad": "2026-10-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Bucometasana",
+      "categoria": "Aftas",
+      "descripcion": "Para aliviar dolor e inflamación en boca y garganta por aftas o irritaciones.",
+      "fecha_caducidad": "2026-10-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Compeed",
+      "categoria": "Herpes",
+      "descripcion": "Apósitos para proteger y acelerar la cicatrización de ampollas, rozaduras o heridas menores.",
+      "fecha_caducidad": "2027-02-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Gel Garden Forte",
+      "categoria": "Antiinflamatorio",
+      "descripcion": "Crema antiinflamatoria para pre-post entreno.",
+      "fecha_caducidad": "2026-05-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En bote"
+    },
+    {
+      "nombre": "Aciclovir kern pharma",
+      "categoria": "Herpes",
+      "descripcion": "Tratamiento tópico para reducir brotes de herpes labial y acelerar la curación.",
+      "fecha_caducidad": "2026-03-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Lexxema",
+      "categoria": "Antiinflamatorio / Dermatología",
+      "descripcion": "Crema para reducir inflamación y picor en afecciones cutáneas como dermatitis o eccema.",
+      "fecha_caducidad": "2027-05-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Clotrimazol Canesmed",
+      "categoria": "Antifúngico / Dermatología",
+      "descripcion": "Crema para tratar infecciones por hongos en la piel, como pie de atleta o candidiasis cutánea.",
+      "fecha_caducidad": "2027-04-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "Suelto"
+    },
+    {
+      "nombre": "Couldina",
+      "categoria": "Analgésico / Antigripal",
+      "descripcion": "Alivia síntomas de resfriado y gripe como dolor, congestión y fiebre.",
+      "fecha_caducidad": "2026-07-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Aciclovir Sandoz",
+      "categoria": "Herpes",
+      "descripcion": "Tratamiento para herpes labial o genital, reduces duración y severidad del brote.",
+      "fecha_caducidad": "2026-12-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Pranarom",
+      "categoria": "Aromaterapia / Bienestar",
+      "descripcion": "Aceites esenciales para aliviar estrés, mejorar respiración y favorecer relajación general.",
+      "fecha_caducidad": "2028-04-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Cetrizina",
+      "categoria": "Antihistamínico / Alergias",
+      "descripcion": "Alivia síntomas de alergias como estornudos, picor, lagrimeo y secreción nasal.",
+      "fecha_caducidad": "2026-08-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "En caja"
+    },
+    {
+      "nombre": "Ibuprofeno",
+      "categoria": "Antiinflamatorio",
+      "descripcion": "Alivia síntomas de inflamación.",
+      "fecha_caducidad": "2026-09-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "Suelto"
+    },
+    {
+      "nombre": "Epidifen",
+      "categoria": "Antiinflamatorio",
+      "descripcion": "Reduce dolor, inflamación y fiebre, indicado para dolores musculares, articulares o de cabeza.",
+      "fecha_caducidad": "2027-09-01T00:00:00",
+      "ubicacion": "Caja plástico",
+      "estado": "Suelto"
+    }
+  ]
+}
